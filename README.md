@@ -1,0 +1,1 @@
+Above is the Jupyter Notebook for the week 4 Kaggle Mini-Project about Natural Disaster Tweets for the course Introduction to Deep Learning at Colorado Boulder. The csv file that contains the predicted labels for the tweets is also included.
